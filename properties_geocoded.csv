@@ -260,9 +260,9 @@ Unit Address,Property Name,Distance,Neighborhood,Property Flags,Unnamed: 5,Prope
 "250 Winding Creek Road,  Olympic Valley, CA, 96146, US",Olympic Valley Hideaway,089-3-11.5 Winding Creek,Olympic Valley, Propane Monitoring: Y,,Summer 3 NT,,
 "260 Palisades Circle,  Alpine Meadows, CA, 96146, US",Starfall Run at Palisades Tahoe,089-3-11.0 Creeks End,Olympic Valley,,,Summer 3 NT,,
 "260 Sierra Crest Trail,  Olympic Valley, CA, 96146, US",Sierra Crest at Palisades Tahoe,089-3-11.4 Sierra Crest,Olympic Valley,Propane Tank: Y,,Summer 3 NT,,
-"270 Bend Ave,  Kings Beach, CA, 96143, US",Bluejay Hideaway,267-2-17.9 Brockway,Tahoe Vista/Kings Beach,,,Summer 5 NT,39.2332198,-120.0138831
+"270 Bend Ave,  Kings Beach, CA, 96143, US",Bluejay Hideaway,267-2-17.9 Brockway,Tahoe Vista/Kings Beach,,,Summer 5 NT,,
 "270 Old County Road,  Carnelian Bay, CA, 96140, US",Wild Blue Lakeview Retreat,267-2-23.0 Old County,Carnelian Bay,,,Managed Services,,
-"270 Pioneer Way,  Tahoe City, CA, 96145, US",Vanni House in Tahoe City,267-2-25.9 Grove,Tahoe City,,,5 NT Year-Round,39.1734658,-120.1399468
+"270 Pioneer Way,  Tahoe City, CA, 96145, US",Vanni House in Tahoe City,267-2-25.9 Grove,Tahoe City,,,5 NT Year-Round,,
 "270 Wildwood Avenue,  Carnelian Bay, CA, 96140, US",Cozy Wood Cabin,267-2-23.0 Old County,Carnelian Bay,,,Summer 5 NT,,
 "280 Old County,  Carnelian Bay, CA, 96140, US",Lake Vista Ski Cabin,267-2-23.0 Old County,Carnelian Bay,,,Ski Lease Only,,
 "288 West Agatam Avenue,  Tahoe Vista, CA, 96148, US",Moon Dune Chalet,267-2-18.0 Moon Dunes,Tahoe Vista/Kings Beach,,,Summer 5 NT,,
@@ -272,8 +272,8 @@ Unit Address,Property Name,Distance,Neighborhood,Property Flags,Unnamed: 5,Prope
 "3045 Martin,  Tahoe City, CA, 96145, US",Hideaway in the Highlands,267-2-24.0 Fabian,Tahoe City,,,Summer 5 NT,,
 "306 Bob Haslem,  Truckee, CA, 96161, US",Stag's Rest at Lahontan,267-2-09.4 Lahontan,Lahontan,,,Monthly Lease Only,,
 "3060 Broken Arrow Place,  Olympic Valley, CA, 96146, US",Sundance Lodge at Palisades Tahoe,089-3-11.3 Broken Arrow,Olympic Valley,,,Summer 3 NT,,
-"310 Grove St,  Tahoe City, CA, 96145, US",Rustling Grove Cabin in Tahoe City,267-2-25.9 Grove,Tahoe City,,,Summer 5 NT,39.1734556,-120.1412907
-"310 Hazel St.,  Tahoma, CA, 96142, US",West Haven Ski Lease,089-4-24.5 Pine,Homewood/Tahoma,,,Ski Lease Only,39.0637885,-120.1294521
+"310 Grove St,  Tahoe City, CA, 96145, US",Rustling Grove Cabin in Tahoe City,267-2-25.9 Grove,Tahoe City,,,Summer 5 NT,,
+"310 Hazel St.,  Tahoma, CA, 96142, US",West Haven Ski Lease,089-4-24.5 Pine,Homewood/Tahoma,,,Ski Lease Only,,
 "3102 Sierra Crest,  Olympic Valley, CA, 96146, US",Silverado Lodge at Palisades,089-3-11.4 Sierra Crest,Olympic Valley,,,Summer 3 NT,,
 "311 Fawn Ln,  Tahoe Vista, CA, 96148, US",Knotty and Nice,267-2-19.1 Rim,Tahoe Vista/Kings Beach,,,Summer 5 NT,,
 "3116 Valley View Court,  Olympic Valley, CA, 96146, US",Open Air at Palisades Tahoe,089-3-11.4 Sierra Crest,Olympic Valley,,,Summer 3 NT,,
